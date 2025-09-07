@@ -1,0 +1,10 @@
+.editThisPage {
+  font-size: 0.9rem;
+}
+
+.lastUpdated {
+  text-align: right;
+  color: var(--ifm-color-secondary-darkest);
+  font-size: 0.85rem;
+}
+
