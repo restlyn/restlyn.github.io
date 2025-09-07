@@ -1,7 +1,6 @@
 ---
 id: intro
 title: Welcome to Restlyn
-slug: /
 ---
 
 # Welcome to Restlyn 🐊
