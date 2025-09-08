@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../restlyn"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../restlyn-demo"
+		}
+	],
+	"settings": {}
+}

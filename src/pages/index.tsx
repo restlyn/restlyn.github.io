@@ -15,6 +15,7 @@ export default function Home(): JSX.Element {
           <div className={styles.buttons}>
             <Link className="button button--primary button--lg" to={useBaseUrl('docs/getting-started')}>Get Started</Link>
             <a className="button button--secondary button--lg" href="https://github.com/amiya-pattnaik/restlyn" target="_blank" rel="noreferrer">GitHub</a>
+            <a className="button button--secondary button--lg" href="https://www.npmjs.com/package/restlyn" target="_blank" rel="noreferrer">npm</a>
             <Link className="button button--secondary button--lg" to={useBaseUrl('docs/cli')}>CLI</Link>
           </div>
           <div className={styles.badges} style={{marginTop: 16}}>
